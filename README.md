@@ -5,12 +5,12 @@
 Este projeto é uma simulação de gerenciamento de processos, desenvolvido no contexto da disciplina de **Sistemas Operacionais**. O código é escrito em C e implementa um algoritmo de escalonamento de processos utilizando filas. A aplicação gerencia a execução de processos através de uma abordagem de preempção com um quantum de tempo.
 
 ## 📑 Índice
-1. [Objetivos](#objetivos)
-2. [Funcionalidades](#funcionalidades)
-3. [Tecnologias Utilizadas](#tecnologias-utilizadas)
-4. [Pré-requisitos](#pré-requisitos)
-5. [Instalação](#instalação)
-6. [Autor](#autor)
+1. [Objetivos](#-objetivos)
+2. [Funcionalidades](#%EF%B8%8F-funcionalidades)
+3. [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+4. [Pré-requisitos](#-pré-requisitos)
+5. [Instalação](#-instalação)
+6. [Autor](#-autor)
 
 ## 🎯 Objetivos
 - Simular o gerenciamento de processos utilizando filas.
