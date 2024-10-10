@@ -41,7 +41,7 @@ Para executar este projeto, você precisará de:
 
 2. **Navegue até o diretório do projeto:**
    ```bash
-   cd simulador-processos
+   cd states-process
    ```
 
 3. **Compile o código:**
