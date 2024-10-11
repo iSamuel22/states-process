@@ -29,7 +29,6 @@ Este projeto é uma simulação de gerenciamento de processos, desenvolvido no c
 
 ## 📝 Pré-requisitos
 Para executar este projeto, você precisará de:
-- JDK 11+ instalado.
 - Um compilador C (como GCC).
 - IDE ou editor de texto de sua escolha (ex: Code::Blocks, Visual Studio Code).
 
@@ -55,6 +54,6 @@ Para executar este projeto, você precisará de:
    ```
 
 ## 👤 Autor
-Desenvolvido por [Seu Nome](https://github.com/smuelp).
+Desenvolvido por [Samuel Ildebrando Pena](https://github.com/smuelp).
 
 ---
