@@ -35,7 +35,7 @@ Para executar este projeto, você precisará de:
 ## 🚀 Instalação
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/smuelp/states-process.git
+   git clone https://github.com/iSamuel22/states-process.git
    ```
 
 2. **Navegue até o diretório do projeto:**
